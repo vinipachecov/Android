@@ -23,14 +23,19 @@
         android:layout_height="0dp"
         app:srcCompat="@drawable/homerwikipedia"
         tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="48dp" />
+        tools:layout_editor_absoluteY="48dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
 
     <ImageView
         android:id="@+id/homer"
         android:layout_width="370dp"
         android:layout_height="500dp"
         android:alpha="0"
+        android:onClick="fade"
         app:srcCompat="@drawable/homerwikipedia"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="0dp" />
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp" />
 </android.support.constraint.ConstraintLayout>
