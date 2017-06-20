@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.vinipachecov.showingandhidinguielements.MainActivity">
+
+    <Button
+        android:id="@+id/showbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33dp"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="15dp"
+        android:onClick="show"
+        android:text="Show"
+        app:layout_constraintLeft_toLeftOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintTop_creator="1" />
+
+    <Button
+        android:id="@+id/hidebutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="47dp"
+        android:layout_marginStart="49dp"
+        android:layout_marginTop="63dp"
+        android:onClick="hide"
+        android:text="hide"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/showbutton"
+        tools:layout_constraintTop_creator="1" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="27dp"
+        android:text="HelloWOrld"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_constraintTop_creator="1" />
+</android.support.constraint.ConstraintLayout>
