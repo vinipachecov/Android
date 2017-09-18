@@ -3,6 +3,8 @@ package com.example.vinicius.mapandlocationdemo;
 import android.Manifest;
 import android.content.Context;
 import android.content.pm.PackageManager;
+import android.location.Address;
+import android.location.Geocoder;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
@@ -12,6 +14,7 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
+import android.util.Log;
 import android.widget.Toast;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -20,6 +23,10 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
+
+import java.io.IOException;
+import java.util.List;
+import java.util.Locale;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
@@ -78,12 +85,66 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             @Override
             public void onLocationChanged(Location location) {
 
-                Toast.makeText(MapsActivity.this, location.toString(), Toast.LENGTH_SHORT).show();
+                LatLng userLocation = new LatLng(location.getLatitude(), location.getLongitude());
+
+                //Toast.makeText(MapsActivity.this, location.toString(), Toast.LENGTH_SHORT).show();
 
                 mMap.clear();
-                LatLng sydney = new LatLng(location.getLatitude(), location.getLongitude());
-                mMap.addMarker(new MarkerOptions().position(sydney).title("Where I am"));
-                mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+                mMap.addMarker(new MarkerOptions().position(userLocation).title("Where I am"));
+                mMap.moveCamera(CameraUpdateFactory.newLatLng(userLocation));
+
+                Geocoder geocoder = new Geocoder(getApplicationContext(), Locale.getDefault());
+
+                try {
+
+                    List<Address> listAddresses = geocoder.getFromLocation(location.getLatitude(),location.getLongitude(), 1);
+
+                    if( listAddresses != null && listAddresses.size() > 0 ) {
+
+                        Log.i("PlaceInfo" , listAddresses.get(0).toString());
+
+                        String address = "";
+
+                        if ( listAddresses.get(0).getSubThoroughfare() != null) {
+
+                            address += listAddresses.get(0).getSubThoroughfare() + " ";
+
+                        }
+
+                        if ( listAddresses.get(0).getThoroughfare() != null){
+
+                            address += listAddresses.get(0).getThoroughfare() + ", ";
+
+                        }
+
+                        if ( listAddresses.get(0).getLocality() != null){
+
+                            address += listAddresses.get(0).getLocality() + ", ";
+
+                        }
+
+
+                        if ( listAddresses.get(0).getPostalCode() != null){
+
+                            address += listAddresses.get(0).getPostalCode() + ", ";
+
+                        }
+
+                        if ( listAddresses.get(0).getCountryName() != null){
+
+                            address += listAddresses.get(0).getCountryName();
+
+                        }
+
+                        Toast.makeText(MapsActivity.this, address, Toast.LENGTH_SHORT).show();
+
+                    }
+
+                } catch (IOException e) {
+
+                    e.printStackTrace();
+
+                }
             }
 
             @Override
