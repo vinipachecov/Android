@@ -1,0 +1,7 @@
+#Thu Sep 21 22:59:08 BRT 2017
+base.0=/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4a26363512ed4f2146dfa2fb5bfcc7e9efacebce
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e7b38e853c64eb0a2623623b18d24e19ac6e74c0/classes.dex
+base.1=/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e7b38e853c64eb0a2623623b18d24e19ac6e74c0
+file.0=/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4a26363512ed4f2146dfa2fb5bfcc7e9efacebce/classes.dex

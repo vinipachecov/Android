@@ -1,0 +1,418 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+	package
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/vinicius/.android/build-cache/eb23d76a2930c7dd2b5aae64f28974c55aab6803/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/vinicius/.android/build-cache/ecbe458dad2da6e409d332b033b07f8d69b55f1c/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/vinicius/.android/build-cache/4abaa69b8f924ba1ffed17a21e07fd9d284f52cc/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /home/vinicius/.android/build-cache/0711f59a2cc04478e4fac891982107c152cfeb24/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /home/vinicius/.android/build-cache/8e7bee31c91b37ff6c064e38ecdc52236d67ddcb/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /home/vinicius/.android/build-cache/34dff9cae4219bc1f85fc06a045377c0050bd187/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/vinicius/.android/build-cache/f88ee25ffb6f9870e4202c0ca5575a42495e772e/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vinicius/.android/build-cache/92a687ec2ba1101661b04681430fde16e9206060/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/vinicius/.android/build-cache/6955c56b06486d66f58b604a66f210db2898c675/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/vinicius/.android/build-cache/eb23d76a2930c7dd2b5aae64f28974c55aab6803/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/vinicius/.android/build-cache/ecbe458dad2da6e409d332b033b07f8d69b55f1c/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /home/vinicius/.android/build-cache/c812f1c325cf955aaaff29e9b1245e78cded2619/output/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/vinicius/.android/build-cache/f88ee25ffb6f9870e4202c0ca5575a42495e772e/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vinicius/.android/build-cache/92a687ec2ba1101661b04681430fde16e9206060/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/vinicius/.android/build-cache/6955c56b06486d66f58b604a66f210db2898c675/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:22-76
+application
+ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:5-36:19
+MERGED from [com.google.android.gms:play-services:9.4.0] /home/vinicius/.android/build-cache/ea7901e1bca1e898260311f0593963d19171903d/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/vinicius/.android/build-cache/eb23d76a2930c7dd2b5aae64f28974c55aab6803/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/vinicius/.android/build-cache/ecbe458dad2da6e409d332b033b07f8d69b55f1c/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/vinicius/.android/build-cache/4abaa69b8f924ba1ffed17a21e07fd9d284f52cc/output/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /home/vinicius/.android/build-cache/bf94b234b3e429bc3cf259b38a321f3088fd61d6/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /home/vinicius/.android/build-cache/429d7e1b9d85c313054652f1c064be4e5ea51a1a/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] /home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /home/vinicius/.android/build-cache/7e059c6713fe86d245a7be1d67bd30365778ab13/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] /home/vinicius/.android/build-cache/dd895108f1ef8f59d07d054d48f580e7a979b425/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /home/vinicius/.android/build-cache/ab31f26922bc8aa156187aacb0d52f21d035db33/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /home/vinicius/.android/build-cache/0711f59a2cc04478e4fac891982107c152cfeb24/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /home/vinicius/.android/build-cache/b8251ac6c806334c77599d23278afec15a676ee9/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /home/vinicius/.android/build-cache/df5e0699f8e2493ba4028817154219275e5fa898/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /home/vinicius/.android/build-cache/1430c8616f0241e21c604fc0ab0e8ef5c872cafb/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /home/vinicius/.android/build-cache/82ef3ba6fecc5d39598ca8b6879097bbe4478bc7/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /home/vinicius/.android/build-cache/60ba4b0567e5ea0f483408258918e43e2dbf45ec/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /home/vinicius/.android/build-cache/41ab3d4e797ff13de71c968d7b08db34e113ecf0/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /home/vinicius/.android/build-cache/2684dafbc6f217717d91ba3c975da05ff9e2b9b3/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /home/vinicius/.android/build-cache/8e7bee31c91b37ff6c064e38ecdc52236d67ddcb/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /home/vinicius/.android/build-cache/f65336a4802810d95efdaafb2552b6f04ace103f/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /home/vinicius/.android/build-cache/34dff9cae4219bc1f85fc06a045377c0050bd187/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /home/vinicius/.android/build-cache/fb778fc31c23fb1a48c65d2e9ce3963038837eea/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /home/vinicius/.android/build-cache/c812f1c325cf955aaaff29e9b1245e78cded2619/output/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /home/vinicius/.android/build-cache/41e2a4c68ac1f0c01b15372654c3cff7ab735769/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /home/vinicius/.android/build-cache/7e14f76ab1a2d801dfd7cf4490ef5e5f057cd7b3/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /home/vinicius/.android/build-cache/cdc97f9d0ff4a4a017c9b723a68fc27683eb2884/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /home/vinicius/.android/build-cache/a29eb24b1eb27814c7d2966e6cb028d2b2d39074/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/vinicius/.android/build-cache/f88ee25ffb6f9870e4202c0ca5575a42495e772e/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vinicius/.android/build-cache/92a687ec2ba1101661b04681430fde16e9206060/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /home/vinicius/.android/build-cache/c609a908870a8b9f76c664281897c20062f6c622/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/vinicius/.android/build-cache/94e4f4975091e36ef0aa947e078fc43c19078bb8/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /home/vinicius/.android/build-cache/c3897b754482aef8115aea071512cd209d7b550d/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/vinicius/.android/build-cache/6955c56b06486d66f58b604a66f210db2898c675/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /home/vinicius/.android/build-cache/545b78b2a3ce7ddd9ece9c9a22cf2ecc38a1907d/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/vinicius/.android/build-cache/9cb5184213ce2c758ce36418fde7e29a9082b709/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/vinicius/.android/build-cache/2ed5cc49023195d88e513aae6c3df78db5c70c2d/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/vinicius/.android/build-cache/0a616dc5e3c58b6452df581fdce08512d69bbcfe/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:9-41
+	android:allowBackup
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-43
+activity#com.parse.starter.MainActivity
+ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:9.4.0] /home/vinicius/.android/build-cache/ea7901e1bca1e898260311f0593963d19171903d/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /home/vinicius/.android/build-cache/909980739f153caa1d7f8be02b53f7eb3340fedc/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/vinicius/.android/build-cache/eb23d76a2930c7dd2b5aae64f28974c55aab6803/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/vinicius/.android/build-cache/ecbe458dad2da6e409d332b033b07f8d69b55f1c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/vinicius/.android/build-cache/4abaa69b8f924ba1ffed17a21e07fd9d284f52cc/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /home/vinicius/.android/build-cache/bf94b234b3e429bc3cf259b38a321f3088fd61d6/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /home/vinicius/.android/build-cache/0fd49ede301ba130042046252d2879a4f340fce7/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /home/vinicius/.android/build-cache/429d7e1b9d85c313054652f1c064be4e5ea51a1a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] /home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /home/vinicius/.android/build-cache/7e059c6713fe86d245a7be1d67bd30365778ab13/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] /home/vinicius/.android/build-cache/dd895108f1ef8f59d07d054d48f580e7a979b425/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /home/vinicius/.android/build-cache/ab31f26922bc8aa156187aacb0d52f21d035db33/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /home/vinicius/.android/build-cache/0711f59a2cc04478e4fac891982107c152cfeb24/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /home/vinicius/.android/build-cache/b8251ac6c806334c77599d23278afec15a676ee9/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /home/vinicius/.android/build-cache/df5e0699f8e2493ba4028817154219275e5fa898/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /home/vinicius/.android/build-cache/56406df09431912efa4a58cf926bf0225dfb05ef/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /home/vinicius/.android/build-cache/cec2794a7f8aa43ef4eaa3a85885ccc2fca6bcd3/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /home/vinicius/.android/build-cache/59602e622f536d8344f627956a6decd11e81f204/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /home/vinicius/.android/build-cache/1430c8616f0241e21c604fc0ab0e8ef5c872cafb/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /home/vinicius/.android/build-cache/458e4503c66f48fe4efae527f13023e925cba2b5/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /home/vinicius/.android/build-cache/d14fa55affad06e00c155fe51e28701b441f4c3f/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /home/vinicius/.android/build-cache/82ef3ba6fecc5d39598ca8b6879097bbe4478bc7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /home/vinicius/.android/build-cache/60ba4b0567e5ea0f483408258918e43e2dbf45ec/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /home/vinicius/.android/build-cache/41ab3d4e797ff13de71c968d7b08db34e113ecf0/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /home/vinicius/.android/build-cache/2684dafbc6f217717d91ba3c975da05ff9e2b9b3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /home/vinicius/.android/build-cache/8e7bee31c91b37ff6c064e38ecdc52236d67ddcb/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /home/vinicius/.android/build-cache/f65336a4802810d95efdaafb2552b6f04ace103f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /home/vinicius/.android/build-cache/34dff9cae4219bc1f85fc06a045377c0050bd187/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /home/vinicius/.android/build-cache/fb778fc31c23fb1a48c65d2e9ce3963038837eea/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /home/vinicius/.android/build-cache/c812f1c325cf955aaaff29e9b1245e78cded2619/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /home/vinicius/.android/build-cache/41e2a4c68ac1f0c01b15372654c3cff7ab735769/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /home/vinicius/.android/build-cache/7e14f76ab1a2d801dfd7cf4490ef5e5f057cd7b3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /home/vinicius/.android/build-cache/cdc97f9d0ff4a4a017c9b723a68fc27683eb2884/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /home/vinicius/.android/build-cache/a29eb24b1eb27814c7d2966e6cb028d2b2d39074/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /home/vinicius/.android/build-cache/4fa41b497fe136e936463caf5383372d1c586607/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/vinicius/.android/build-cache/f88ee25ffb6f9870e4202c0ca5575a42495e772e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vinicius/.android/build-cache/92a687ec2ba1101661b04681430fde16e9206060/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] /home/vinicius/.android/build-cache/c609a908870a8b9f76c664281897c20062f6c622/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/vinicius/.android/build-cache/94e4f4975091e36ef0aa947e078fc43c19078bb8/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /home/vinicius/.android/build-cache/855a6a3389a8747b4e980a25208103270e020672/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /home/vinicius/.android/build-cache/c3897b754482aef8115aea071512cd209d7b550d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/vinicius/.android/build-cache/6955c56b06486d66f58b604a66f210db2898c675/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /home/vinicius/.android/build-cache/545b78b2a3ce7ddd9ece9c9a22cf2ecc38a1907d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/vinicius/.android/build-cache/9cb5184213ce2c758ce36418fde7e29a9082b709/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/vinicius/.android/build-cache/2ed5cc49023195d88e513aae6c3df78db5c70c2d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/vinicius/.android/build-cache/0a616dc5e3c58b6452df581fdce08512d69bbcfe/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.1] /home/vinicius/.android/build-cache/69fade1024157a14c9562e1038623fbc1585d0fe/output/AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		INJECTED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/vinicius/.android/build-cache/eb23d76a2930c7dd2b5aae64f28974c55aab6803/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/vinicius/.android/build-cache/eb23d76a2930c7dd2b5aae64f28974c55aab6803/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/vinicius/.android/build-cache/eb23d76a2930c7dd2b5aae64f28974c55aab6803/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/vinicius/.android/build-cache/eb23d76a2930c7dd2b5aae64f28974c55aab6803/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/vinicius/.android/build-cache/eb23d76a2930c7dd2b5aae64f28974c55aab6803/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/vinicius/.android/build-cache/eb23d76a2930c7dd2b5aae64f28974c55aab6803/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/vinicius/.android/build-cache/eb23d76a2930c7dd2b5aae64f28974c55aab6803/output/AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /home/vinicius/.android/build-cache/ecbe458dad2da6e409d332b033b07f8d69b55f1c/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/vinicius/.android/build-cache/f88ee25ffb6f9870e4202c0ca5575a42495e772e/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vinicius/.android/build-cache/92a687ec2ba1101661b04681430fde16e9206060/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /home/vinicius/.android/build-cache/ecbe458dad2da6e409d332b033b07f8d69b55f1c/output/AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/vinicius/.android/build-cache/4abaa69b8f924ba1ffed17a21e07fd9d284f52cc/output/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/vinicius/.android/build-cache/4abaa69b8f924ba1ffed17a21e07fd9d284f52cc/output/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/vinicius/.android/build-cache/4abaa69b8f924ba1ffed17a21e07fd9d284f52cc/output/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/vinicius/.android/build-cache/4abaa69b8f924ba1ffed17a21e07fd9d284f52cc/output/AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/vinicius/.android/build-cache/4abaa69b8f924ba1ffed17a21e07fd9d284f52cc/output/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/vinicius/.android/build-cache/4abaa69b8f924ba1ffed17a21e07fd9d284f52cc/output/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/vinicius/.android/build-cache/4abaa69b8f924ba1ffed17a21e07fd9d284f52cc/output/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/vinicius/.android/build-cache/4abaa69b8f924ba1ffed17a21e07fd9d284f52cc/output/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/vinicius/.android/build-cache/4abaa69b8f924ba1ffed17a21e07fd9d284f52cc/output/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/vinicius/.android/build-cache/bf94b234b3e429bc3cf259b38a321f3088fd61d6/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/vinicius/.android/build-cache/bf94b234b3e429bc3cf259b38a321f3088fd61d6/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/vinicius/.android/build-cache/bf94b234b3e429bc3cf259b38a321f3088fd61d6/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/vinicius/.android/build-cache/bf94b234b3e429bc3cf259b38a321f3088fd61d6/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/vinicius/.android/build-cache/bf94b234b3e429bc3cf259b38a321f3088fd61d6/output/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/vinicius/.android/build-cache/bf94b234b3e429bc3cf259b38a321f3088fd61d6/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/vinicius/.android/build-cache/bf94b234b3e429bc3cf259b38a321f3088fd61d6/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/vinicius/.android/build-cache/bf94b234b3e429bc3cf259b38a321f3088fd61d6/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/vinicius/.android/build-cache/bf94b234b3e429bc3cf259b38a321f3088fd61d6/output/AndroidManifest.xml:29:13-58
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/AndroidManifest.xml:8:18-90
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/vinicius/.android/build-cache/0711f59a2cc04478e4fac891982107c152cfeb24/output/AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/vinicius/.android/build-cache/0711f59a2cc04478e4fac891982107c152cfeb24/output/AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/vinicius/.android/build-cache/0711f59a2cc04478e4fac891982107c152cfeb24/output/AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/vinicius/.android/build-cache/0711f59a2cc04478e4fac891982107c152cfeb24/output/AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/vinicius/.android/build-cache/0711f59a2cc04478e4fac891982107c152cfeb24/output/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/vinicius/.android/build-cache/0711f59a2cc04478e4fac891982107c152cfeb24/output/AndroidManifest.xml:29:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/vinicius/.android/build-cache/1430c8616f0241e21c604fc0ab0e8ef5c872cafb/output/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/vinicius/.android/build-cache/1430c8616f0241e21c604fc0ab0e8ef5c872cafb/output/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/vinicius/.android/build-cache/1430c8616f0241e21c604fc0ab0e8ef5c872cafb/output/AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/vinicius/.android/build-cache/1430c8616f0241e21c604fc0ab0e8ef5c872cafb/output/AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/vinicius/.android/build-cache/1430c8616f0241e21c604fc0ab0e8ef5c872cafb/output/AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/vinicius/.android/build-cache/1430c8616f0241e21c604fc0ab0e8ef5c872cafb/output/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/vinicius/.android/build-cache/1430c8616f0241e21c604fc0ab0e8ef5c872cafb/output/AndroidManifest.xml:28:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /home/vinicius/.android/build-cache/8e7bee31c91b37ff6c064e38ecdc52236d67ddcb/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /home/vinicius/.android/build-cache/34dff9cae4219bc1f85fc06a045377c0050bd187/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /home/vinicius/.android/build-cache/8e7bee31c91b37ff6c064e38ecdc52236d67ddcb/output/AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/vinicius/.android/build-cache/04898d93203688e460855a123d8d09c6be6cc481/output/AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vinicius/.android/build-cache/92a687ec2ba1101661b04681430fde16e9206060/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vinicius/.android/build-cache/92a687ec2ba1101661b04681430fde16e9206060/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vinicius/.android/build-cache/90f144c887c075b9d3a2d5e1b09ca096cb277303/output/AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vinicius/.android/build-cache/f07dfbb85e93963fd0e73a7a9e5113a45569b4d1/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] /home/vinicius/.android/build-cache/c609a908870a8b9f76c664281897c20062f6c622/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/vinicius/.android/build-cache/c609a908870a8b9f76c664281897c20062f6c622/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/vinicius/.android/build-cache/c609a908870a8b9f76c664281897c20062f6c622/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/vinicius/.android/build-cache/c609a908870a8b9f76c664281897c20062f6c622/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/vinicius/.android/build-cache/c609a908870a8b9f76c664281897c20062f6c622/output/AndroidManifest.xml:9:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/vinicius/.android/build-cache/6955c56b06486d66f58b604a66f210db2898c675/output/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/vinicius/.android/build-cache/6955c56b06486d66f58b604a66f210db2898c675/output/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/vinicius/.android/build-cache/6955c56b06486d66f58b604a66f210db2898c675/output/AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] /home/vinicius/.android/build-cache/2ed5cc49023195d88e513aae6c3df78db5c70c2d/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /home/vinicius/.android/build-cache/2ed5cc49023195d88e513aae6c3df78db5c70c2d/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /home/vinicius/.android/build-cache/2ed5cc49023195d88e513aae6c3df78db5c70c2d/output/AndroidManifest.xml:22:13-58

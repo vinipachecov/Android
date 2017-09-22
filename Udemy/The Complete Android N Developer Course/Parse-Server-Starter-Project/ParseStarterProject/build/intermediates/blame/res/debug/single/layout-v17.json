@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v17/mr_media_route_list_item.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout-v17/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/layout-v17/mr_media_route_list_item.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout-v17/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v17/mr_media_route_list_item.xml",
+        "source": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/layout-v17/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v17/mr_media_route_list_item.xml",
+        "source": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/layout-v17/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout-v17/mr_media_route_list_item.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout-v17/mr_media_route_list_item.xml"
+    }
+]

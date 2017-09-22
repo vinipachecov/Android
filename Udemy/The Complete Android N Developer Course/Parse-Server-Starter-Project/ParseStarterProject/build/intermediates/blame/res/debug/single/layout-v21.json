@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/vinicius/.android/build-cache/7e14f76ab1a2d801dfd7cf4490ef5e5f057cd7b3/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/vinicius/.android/build-cache/7e14f76ab1a2d801dfd7cf4490ef5e5f057cd7b3/output/res/layout-v21/place_autocomplete_fragment.xml"
+    }
+]

@@ -1,0 +1,2896 @@
+[
+    {
+        "outputFile": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 111,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 111,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 107,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 107,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 122,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 122,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 111,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 111,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 107,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 107,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 84,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 84,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 101,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 101,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 125,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 125,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 83,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endColumn": 83,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 80,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 80,
+                        "endOffset": 1091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 81,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endColumn": 81,
+                        "endOffset": 1173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endColumn": 106,
+                    "endOffset": 1280
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1178,
+                        "endColumn": 106,
+                        "endOffset": 1280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1285,
+                    "endColumn": 108,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1285,
+                        "endColumn": 108,
+                        "endOffset": 1389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1394,
+                    "endColumn": 98,
+                    "endOffset": 1488
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1394,
+                        "endColumn": 98,
+                        "endOffset": 1488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1493,
+                    "endColumn": 107,
+                    "endOffset": 1596
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1493,
+                        "endColumn": 107,
+                        "endOffset": 1596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1601,
+                    "endColumn": 102,
+                    "endOffset": 1699
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1601,
+                        "endColumn": 102,
+                        "endOffset": 1699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1704,
+                    "endColumn": 106,
+                    "endOffset": 1806
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1704,
+                        "endColumn": 106,
+                        "endOffset": 1806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1811,
+                    "endColumn": 121,
+                    "endOffset": 1928
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1811,
+                        "endColumn": 121,
+                        "endOffset": 1928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1933,
+                    "endColumn": 99,
+                    "endOffset": 2028
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1933,
+                        "endColumn": 99,
+                        "endOffset": 2028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2033,
+                    "endColumn": 106,
+                    "endOffset": 2135
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 106,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2140,
+                    "endColumn": 113,
+                    "endOffset": 2249
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 113,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2254,
+                    "endColumn": 110,
+                    "endOffset": 2360
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 110,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2365,
+                    "endColumn": 105,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 105,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2471,
+                    "endColumn": 132,
+                    "endOffset": 2599
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endColumn": 132,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2604,
+                    "endColumn": 95,
+                    "endOffset": 2695
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 95,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2700,
+                    "endColumn": 98,
+                    "endOffset": 2794
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 98,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2799,
+                    "endColumn": 125,
+                    "endOffset": 2920
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 125,
+                        "endOffset": 1169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2925,
+                    "endColumn": 104,
+                    "endOffset": 3025
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1174,
+                        "endColumn": 104,
+                        "endOffset": 1274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3030,
+                    "endColumn": 86,
+                    "endOffset": 3112
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1279,
+                        "endColumn": 86,
+                        "endOffset": 1361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3117,
+                    "endColumn": 98,
+                    "endOffset": 3211
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1366,
+                        "endColumn": 98,
+                        "endOffset": 1460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3216,
+                    "endColumn": 100,
+                    "endOffset": 3312
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2033,
+                        "endColumn": 100,
+                        "endOffset": 2129
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 111,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 111,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 107,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 107,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 122,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 122,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 111,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 111,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 107,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 107,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 84,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 84,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 101,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 101,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 125,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 125,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 83,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endColumn": 83,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 80,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 80,
+                        "endOffset": 1091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 81,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endColumn": 81,
+                        "endOffset": 1173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endColumn": 106,
+                    "endOffset": 1280
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1178,
+                        "endColumn": 106,
+                        "endOffset": 1280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1285,
+                    "endColumn": 108,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1285,
+                        "endColumn": 108,
+                        "endOffset": 1389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1394,
+                    "endColumn": 98,
+                    "endOffset": 1488
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1394,
+                        "endColumn": 98,
+                        "endOffset": 1488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1493,
+                    "endColumn": 107,
+                    "endOffset": 1596
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1493,
+                        "endColumn": 107,
+                        "endOffset": 1596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1601,
+                    "endColumn": 102,
+                    "endOffset": 1699
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1601,
+                        "endColumn": 102,
+                        "endOffset": 1699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1704,
+                    "endColumn": 106,
+                    "endOffset": 1806
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1704,
+                        "endColumn": 106,
+                        "endOffset": 1806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1811,
+                    "endColumn": 121,
+                    "endOffset": 1928
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1811,
+                        "endColumn": 121,
+                        "endOffset": 1928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1933,
+                    "endColumn": 99,
+                    "endOffset": 2028
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1933,
+                        "endColumn": 99,
+                        "endOffset": 2028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2033,
+                    "endColumn": 106,
+                    "endOffset": 2135
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 106,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2140,
+                    "endColumn": 113,
+                    "endOffset": 2249
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 113,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2254,
+                    "endColumn": 110,
+                    "endOffset": 2360
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 110,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2365,
+                    "endColumn": 105,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 105,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2471,
+                    "endColumn": 132,
+                    "endOffset": 2599
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endColumn": 132,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2604,
+                    "endColumn": 95,
+                    "endOffset": 2695
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 95,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2700,
+                    "endColumn": 98,
+                    "endOffset": 2794
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 98,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2799,
+                    "endColumn": 125,
+                    "endOffset": 2920
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 125,
+                        "endOffset": 1169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2925,
+                    "endColumn": 104,
+                    "endOffset": 3025
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1174,
+                        "endColumn": 104,
+                        "endOffset": 1274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3030,
+                    "endColumn": 86,
+                    "endOffset": 3112
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1279,
+                        "endColumn": 86,
+                        "endOffset": 1361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3117,
+                    "endColumn": 98,
+                    "endOffset": 3211
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1366,
+                        "endColumn": 98,
+                        "endOffset": 1460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3216,
+                    "endColumn": 100,
+                    "endOffset": 3312
+                },
+                "from": {
+                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2033,
+                        "endColumn": 100,
+                        "endOffset": 2129
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 111,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 111,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 107,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 107,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 122,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 122,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 111,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 111,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 107,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 107,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 84,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 84,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 101,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 101,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 125,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 125,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 83,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endColumn": 83,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 80,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 80,
+                        "endOffset": 1091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 81,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endColumn": 81,
+                        "endOffset": 1173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endColumn": 106,
+                    "endOffset": 1280
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1178,
+                        "endColumn": 106,
+                        "endOffset": 1280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1285,
+                    "endColumn": 108,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1285,
+                        "endColumn": 108,
+                        "endOffset": 1389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1394,
+                    "endColumn": 98,
+                    "endOffset": 1488
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1394,
+                        "endColumn": 98,
+                        "endOffset": 1488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1493,
+                    "endColumn": 107,
+                    "endOffset": 1596
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1493,
+                        "endColumn": 107,
+                        "endOffset": 1596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1601,
+                    "endColumn": 102,
+                    "endOffset": 1699
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1601,
+                        "endColumn": 102,
+                        "endOffset": 1699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1704,
+                    "endColumn": 106,
+                    "endOffset": 1806
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1704,
+                        "endColumn": 106,
+                        "endOffset": 1806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1811,
+                    "endColumn": 121,
+                    "endOffset": 1928
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1811,
+                        "endColumn": 121,
+                        "endOffset": 1928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1933,
+                    "endColumn": 99,
+                    "endOffset": 2028
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1933,
+                        "endColumn": 99,
+                        "endOffset": 2028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2033,
+                    "endColumn": 106,
+                    "endOffset": 2135
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 106,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2140,
+                    "endColumn": 113,
+                    "endOffset": 2249
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 113,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2254,
+                    "endColumn": 110,
+                    "endOffset": 2360
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 110,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2365,
+                    "endColumn": 105,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 105,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2471,
+                    "endColumn": 132,
+                    "endOffset": 2599
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endColumn": 132,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2604,
+                    "endColumn": 95,
+                    "endOffset": 2695
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 95,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2700,
+                    "endColumn": 98,
+                    "endOffset": 2794
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 98,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2799,
+                    "endColumn": 125,
+                    "endOffset": 2920
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 125,
+                        "endOffset": 1169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2925,
+                    "endColumn": 104,
+                    "endOffset": 3025
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1174,
+                        "endColumn": 104,
+                        "endOffset": 1274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3030,
+                    "endColumn": 86,
+                    "endOffset": 3112
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1279,
+                        "endColumn": 86,
+                        "endOffset": 1361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3117,
+                    "endColumn": 98,
+                    "endOffset": 3211
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1366,
+                        "endColumn": 98,
+                        "endOffset": 1460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3216,
+                    "endColumn": 100,
+                    "endOffset": 3312
+                },
+                "from": {
+                    "file": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2033,
+                        "endColumn": 100,
+                        "endOffset": 2129
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 111,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 111,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 107,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 107,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 122,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 122,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 111,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 111,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 107,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 107,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 84,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 843,
+                        "endColumn": 84,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 101,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 101,
+                        "endOffset": 1025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 125,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1030,
+                        "endColumn": 125,
+                        "endOffset": 1151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 81,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1156,
+                        "endColumn": 81,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 106,
+                    "endOffset": 1115
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 106,
+                        "endOffset": 1340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1120,
+                    "endColumn": 108,
+                    "endOffset": 1224
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1345,
+                        "endColumn": 108,
+                        "endOffset": 1449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1229,
+                    "endColumn": 98,
+                    "endOffset": 1323
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1454,
+                        "endColumn": 98,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1328,
+                    "endColumn": 107,
+                    "endOffset": 1431
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1553,
+                        "endColumn": 107,
+                        "endOffset": 1656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1436,
+                    "endColumn": 102,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1661,
+                        "endColumn": 102,
+                        "endOffset": 1759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 106,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1764,
+                        "endColumn": 106,
+                        "endOffset": 1866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endColumn": 121,
+                    "endOffset": 1763
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1871,
+                        "endColumn": 121,
+                        "endOffset": 1988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1768,
+                    "endColumn": 99,
+                    "endOffset": 1863
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1993,
+                        "endColumn": 99,
+                        "endOffset": 2088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1868,
+                    "endColumn": 106,
+                    "endOffset": 1970
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 106,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1975,
+                    "endColumn": 113,
+                    "endOffset": 2084
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 113,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2089,
+                    "endColumn": 110,
+                    "endOffset": 2195
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 110,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2200,
+                    "endColumn": 105,
+                    "endOffset": 2301
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 105,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2306,
+                    "endColumn": 132,
+                    "endOffset": 2434
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endColumn": 132,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2439,
+                    "endColumn": 95,
+                    "endOffset": 2530
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 95,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2535,
+                    "endColumn": 98,
+                    "endOffset": 2629
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 98,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2634,
+                    "endColumn": 125,
+                    "endOffset": 2755
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 125,
+                        "endOffset": 1169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2760,
+                    "endColumn": 104,
+                    "endOffset": 2860
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1174,
+                        "endColumn": 104,
+                        "endOffset": 1274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2865,
+                    "endColumn": 86,
+                    "endOffset": 2947
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1279,
+                        "endColumn": 86,
+                        "endOffset": 1361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2952,
+                    "endColumn": 98,
+                    "endOffset": 3046
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1366,
+                        "endColumn": 98,
+                        "endOffset": 1460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3051,
+                    "endColumn": 100,
+                    "endOffset": 3147
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2093,
+                        "endColumn": 100,
+                        "endOffset": 2189
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 111,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 111,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 107,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 107,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 122,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 122,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 111,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 111,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 107,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 107,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 84,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 843,
+                        "endColumn": 84,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 101,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 101,
+                        "endOffset": 1025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 125,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1030,
+                        "endColumn": 125,
+                        "endOffset": 1151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 81,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1156,
+                        "endColumn": 81,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 106,
+                    "endOffset": 1115
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 106,
+                        "endOffset": 1340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1120,
+                    "endColumn": 108,
+                    "endOffset": 1224
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1345,
+                        "endColumn": 108,
+                        "endOffset": 1449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1229,
+                    "endColumn": 98,
+                    "endOffset": 1323
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1454,
+                        "endColumn": 98,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1328,
+                    "endColumn": 107,
+                    "endOffset": 1431
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1553,
+                        "endColumn": 107,
+                        "endOffset": 1656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1436,
+                    "endColumn": 102,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1661,
+                        "endColumn": 102,
+                        "endOffset": 1759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 106,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1764,
+                        "endColumn": 106,
+                        "endOffset": 1866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endColumn": 121,
+                    "endOffset": 1763
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1871,
+                        "endColumn": 121,
+                        "endOffset": 1988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1768,
+                    "endColumn": 99,
+                    "endOffset": 1863
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1993,
+                        "endColumn": 99,
+                        "endOffset": 2088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1868,
+                    "endColumn": 106,
+                    "endOffset": 1970
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 106,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1975,
+                    "endColumn": 113,
+                    "endOffset": 2084
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 113,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2089,
+                    "endColumn": 110,
+                    "endOffset": 2195
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 110,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2200,
+                    "endColumn": 105,
+                    "endOffset": 2301
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 105,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2306,
+                    "endColumn": 132,
+                    "endOffset": 2434
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endColumn": 132,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2439,
+                    "endColumn": 95,
+                    "endOffset": 2530
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 95,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2535,
+                    "endColumn": 98,
+                    "endOffset": 2629
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 98,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2634,
+                    "endColumn": 125,
+                    "endOffset": 2755
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 125,
+                        "endOffset": 1169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2760,
+                    "endColumn": 104,
+                    "endOffset": 2860
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1174,
+                        "endColumn": 104,
+                        "endOffset": 1274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2865,
+                    "endColumn": 86,
+                    "endOffset": 2947
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1279,
+                        "endColumn": 86,
+                        "endOffset": 1361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2952,
+                    "endColumn": 98,
+                    "endOffset": 3046
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/75013888d5f4049f735ef862a450b21c5d4b5b05/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1366,
+                        "endColumn": 98,
+                        "endOffset": 1460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3051,
+                    "endColumn": 100,
+                    "endOffset": 3147
+                },
+                "from": {
+                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2093,
+                        "endColumn": 100,
+                        "endOffset": 2189
+                    }
+                }
+            }
+        ]
+    }
+]
