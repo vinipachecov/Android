@@ -12,10 +12,6 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
-        "source": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher.png"
     }

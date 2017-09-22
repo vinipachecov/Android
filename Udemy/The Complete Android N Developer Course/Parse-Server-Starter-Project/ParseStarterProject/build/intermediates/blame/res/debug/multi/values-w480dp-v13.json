@@ -97,13 +97,13 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-w480dp/values-w480dp.xml",
+                    "file": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/values-w480dp-v13/values-w480dp-v13.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 278,
+                        "startOffset": 55,
                         "endColumn": 61,
-                        "endOffset": 335
+                        "endOffset": 112
                     }
                 }
             },
@@ -116,13 +116,13 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-w480dp/values-w480dp.xml",
+                    "file": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/values-w480dp-v13/values-w480dp-v13.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 564,
+                        "startOffset": 117,
                         "endColumn": 71,
-                        "endOffset": 631
+                        "endOffset": 184
                     }
                 }
             }
@@ -166,49 +166,6 @@
                         "startOffset": 117,
                         "endColumn": 71,
                         "endOffset": 184
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 61,
-                    "endOffset": 112
-                },
-                "from": {
-                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-w480dp/values-w480dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 278,
-                        "endColumn": 61,
-                        "endOffset": 335
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 117,
-                    "endColumn": 71,
-                    "endOffset": 184
-                },
-                "from": {
-                    "file": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/values-w480dp/values-w480dp.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 564,
-                        "endColumn": 71,
-                        "endOffset": 631
                     }
                 }
             }

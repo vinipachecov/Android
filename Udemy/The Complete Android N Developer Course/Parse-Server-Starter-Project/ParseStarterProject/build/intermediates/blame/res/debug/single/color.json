@@ -1,7 +1,7 @@
 [
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_secondary_text_material_light.xml"
+        "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
@@ -9,11 +9,11 @@
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_secondary_text_material_dark.xml"
+        "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
@@ -21,11 +21,7 @@
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+        "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/color/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
@@ -57,7 +53,7 @@
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
@@ -84,20 +80,12 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
-        "source": "/home/vinicius/.android/build-cache/855a6a3389a8747b4e980a25208103270e020672/output/res/color/wallet_primary_text_holo_light.xml"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/switch_thumb_material_light.xml"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
@@ -120,20 +108,8 @@
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/color/common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/color/common_plus_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
@@ -141,7 +117,7 @@
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_primary_text_material_light.xml"
+        "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/color/abc_primary_text_material_light.xml"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
@@ -169,11 +145,7 @@
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_secondary_text_material_light.xml"
+        "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/color/abc_search_url_text.xml"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
@@ -192,24 +164,12 @@
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/switch_thumb_material_dark.xml"
-    },
-    {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+        "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/color/common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
@@ -224,24 +184,12 @@
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_light.xml"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/color/common_plus_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
@@ -257,7 +205,7 @@
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_primary_text_material_dark.xml"
+        "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
@@ -265,11 +213,7 @@
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
-        "source": "/home/vinicius/.android/build-cache/855a6a3389a8747b4e980a25208103270e020672/output/res/color/wallet_secondary_text_holo_dark.xml"
+        "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/color/switch_thumb_material_light.xml"
     },
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
@@ -277,19 +221,11 @@
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/switch_thumb_material_dark.xml"
+        "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/color/switch_thumb_material_dark.xml"
     },
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
@@ -310,10 +246,6 @@
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/home/vinicius/.android/build-cache/8fb4963a49e0eada70925756bd5138e6d9cb11ac/output/res/color/abc_search_url_text.xml"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",

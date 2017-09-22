@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 103,
-                    "endOffset": 154
-                },
-                "from": {
-                    "file": "/home/vinicius/.android/build-cache/855a6a3389a8747b4e980a25208103270e020672/output/res/values-en-rCA/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 292,
-                        "endColumn": 103,
-                        "endOffset": 391
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
         "map": [
             {

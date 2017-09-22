@@ -8,10 +8,6 @@
         "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_clear_white_24.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png"
     },
@@ -72,10 +68,6 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_clear_white_24.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
-    },
-    {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_cast_white_36.png",
         "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_cast_white_36.png"
     },
@@ -92,10 +84,6 @@
         "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_art_track_grey600_48.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_art_track_grey600_48.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
@@ -106,10 +94,6 @@
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/powered_by_google_dark.png",
-        "source": "/home/vinicius/.android/build-cache/7e14f76ab1a2d801dfd7cf4490ef5e5f057cd7b3/output/res/drawable-mdpi-v4/powered_by_google_dark.png"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
@@ -132,16 +116,8 @@
         "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
-    },
-    {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
         "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_keyboard_arrow_down_white_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_keyboard_arrow_down_white_36.png"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
@@ -160,10 +136,6 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_replay_30_grey600_36.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_forward_30_white_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_forward_30_white_36.png"
-    },
-    {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
     },
@@ -174,10 +146,6 @@
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_keyboard_arrow_down_white_36.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_keyboard_arrow_down_white_36.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_clear_white_24.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_clear_white_24.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
@@ -202,10 +170,6 @@
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_play_arrow_grey600_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_play_arrow_grey600_36.png"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_play_circle_filled_grey600_36.png",
@@ -234,10 +198,6 @@
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/cast_ic_notification_1.png",
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/res/drawable-mdpi-v4/cast_ic_notification_1.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_pause_grey600_48.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_pause_grey600_48.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
@@ -284,10 +244,6 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_stop_white_24.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_stop_white_24.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_plusone_small_off_client.png",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/res/drawable-mdpi-v4/ic_plusone_small_off_client.png"
     },
@@ -308,10 +264,6 @@
         "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_play_circle_filled_white_36.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
-    },
-    {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
         "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -320,20 +272,12 @@
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_volume_mute_white_36.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_volume_mute_white_36.png"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_forward_30_white_24.png",
         "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_forward_30_white_24.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
@@ -360,20 +304,12 @@
         "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_cast_connected_white_24.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_cast_connected_white_24.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_full_open_on_phone.png",
         "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_full_open_on_phone.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_play_arrow_grey600_48.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_play_arrow_grey600_48.png"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_next_grey600_36.png",
@@ -392,10 +328,6 @@
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
-    },
-    {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_forward_30_white_36.png",
         "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_forward_30_white_36.png"
     },
@@ -406,14 +338,6 @@
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_pause_circle_filled_grey600_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_pause_circle_filled_grey600_36.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
@@ -438,14 +362,6 @@
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/powered_by_google_light.png",
         "source": "/home/vinicius/.android/build-cache/7e14f76ab1a2d801dfd7cf4490ef5e5f057cd7b3/output/res/drawable-mdpi-v4/powered_by_google_light.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_pause_grey600_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_pause_grey600_36.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/cast_ic_notification_1.png",
@@ -492,10 +408,6 @@
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_play_circle_filled_white_36.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_closed_caption_white_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_closed_caption_white_36.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_art_track_grey600_48.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_art_track_grey600_48.png"
     },
@@ -528,24 +440,8 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_play_arrow_grey600_48.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_plusone_standard_off_client.png",
-        "source": "/home/vinicius/.android/build-cache/cdc97f9d0ff4a4a017c9b723a68fc27683eb2884/output/res/drawable-mdpi-v4/ic_plusone_standard_off_client.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_forward_30_grey600_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_forward_30_grey600_36.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/places_ic_clear.png",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/drawable-mdpi-v4/places_ic_clear.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_full_open_on_phone.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_full_open_on_phone.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_refresh_white_24.png",
@@ -554,10 +450,6 @@
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_volume_mute_grey600_36.png",
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_volume_mute_grey600_36.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_closed_caption_grey600_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_closed_caption_grey600_36.png"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
@@ -570,10 +462,6 @@
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_pause_circle_filled_white_36.png",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_pause_circle_filled_white_36.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_previous_white_24.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_skip_previous_white_24.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/cast_ic_notification_on.png",
@@ -590,10 +478,6 @@
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
@@ -614,10 +498,6 @@
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_forward_30_white_24.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_forward_30_white_24.png"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_pause_grey600_36.png",
@@ -696,10 +576,6 @@
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_pause_circle_filled_white_36.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/places_ic_clear.png",
-        "source": "/home/vinicius/.android/build-cache/7e14f76ab1a2d801dfd7cf4490ef5e5f057cd7b3/output/res/drawable-mdpi-v4/places_ic_clear.png"
-    },
-    {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_next_white_24.png",
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_skip_next_white_24.png"
     },
@@ -728,10 +604,6 @@
         "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
-    },
-    {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
         "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
     },
@@ -746,10 +618,6 @@
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_replay_white_24.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_replay_white_24.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_cast_white_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_cast_white_36.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_refresh_white_24.png",
@@ -800,10 +668,6 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/powered_by_google_light.png",
-        "source": "/home/vinicius/.android/build-cache/7e14f76ab1a2d801dfd7cf4490ef5e5f057cd7b3/output/res/drawable-mdpi-v4/powered_by_google_light.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_next_white_36.png",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_skip_next_white_36.png"
     },
@@ -840,10 +704,6 @@
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/res/drawable-mdpi-v4/ic_plusone_medium_off_client.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
-    },
-    {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_pause_grey600_48.png",
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_pause_grey600_48.png"
     },
@@ -856,16 +716,8 @@
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_replay_10_white_24.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_replay_30_white_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_replay_30_white_36.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
@@ -880,16 +732,8 @@
         "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png"
-    },
-    {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
         "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_plusone_tall_off_client.png",
@@ -1088,14 +932,6 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/res/drawable-mdpi-v4/ic_plusone_small_off_client.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_next_white_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_skip_next_white_36.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_refresh_white_24.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_refresh_white_24.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
@@ -1130,10 +966,6 @@
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
@@ -1220,14 +1052,6 @@
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_plusone_tall_off_client.png",
-        "source": "/home/vinicius/.android/build-cache/cdc97f9d0ff4a4a017c9b723a68fc27683eb2884/output/res/drawable-mdpi-v4/ic_plusone_tall_off_client.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_previous_white_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_skip_previous_white_36.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
@@ -1242,10 +1066,6 @@
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
@@ -1300,10 +1120,6 @@
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/drawable-mdpi-v4/powered_by_google_dark.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_stop_grey600_48.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_stop_grey600_48.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
@@ -1318,10 +1134,6 @@
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_previous_grey600_36.png",
         "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_skip_previous_grey600_36.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_replay_10_white_24.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_replay_10_white_24.png"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
@@ -1398,10 +1210,6 @@
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_pause_white_24.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_pause_white_24.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png",
@@ -1508,16 +1316,8 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_art_track_grey600_48.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
-    },
-    {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_volume_off_white_36.png",
         "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_volume_off_white_36.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/cast_ic_notification_1.png",
-        "source": "/home/vinicius/.android/build-cache/429d7e1b9d85c313054652f1c064be4e5ea51a1a/output/res/drawable-mdpi-v4/cast_ic_notification_1.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
@@ -1528,16 +1328,8 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/drawable-mdpi-v4/powered_by_google_dark.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
@@ -1596,14 +1388,6 @@
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_forward_30_grey600_36.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_volume_mute_grey600_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_volume_mute_grey600_36.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/places_ic_search.png",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/drawable-mdpi-v4/places_ic_search.png"
     },
@@ -1622,10 +1406,6 @@
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_next_white_24.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_skip_next_white_24.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_next_white_24.png",
@@ -1654,10 +1434,6 @@
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png",
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_play_arrow_white_24.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_play_arrow_white_24.png"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
@@ -1716,16 +1492,8 @@
         "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_replay_30_white_24.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_replay_30_white_24.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_forward_30_white_36.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_forward_30_white_36.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_previous_grey600_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_skip_previous_grey600_36.png"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
@@ -1860,10 +1628,6 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_pause_grey600_36.png",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_pause_grey600_36.png"
     },
@@ -1880,20 +1644,8 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_volume_off_white_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_volume_off_white_36.png"
-    },
-    {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_forward_10_white_24.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_forward_10_white_24.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/cast_ic_notification_0.png",
-        "source": "/home/vinicius/.android/build-cache/429d7e1b9d85c313054652f1c064be4e5ea51a1a/output/res/drawable-mdpi-v4/cast_ic_notification_0.png"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_keyboard_arrow_down_white_36.png",
@@ -1918,14 +1670,6 @@
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_pause_circle_filled_white_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_pause_circle_filled_white_36.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
@@ -1968,10 +1712,6 @@
         "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_previous_grey600_36.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_skip_previous_grey600_36.png"
     },
@@ -1984,16 +1724,8 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_play_circle_filled_white_36.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
-    },
-    {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "/home/vinicius/.android/build-cache/77d92cc5c652d5afea8f2fb5f727f53a779c2b87/output/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/places_ic_search.png",
-        "source": "/home/vinicius/.android/build-cache/7e14f76ab1a2d801dfd7cf4490ef5e5f057cd7b3/output/res/drawable-mdpi-v4/places_ic_search.png"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_volume_mute_white_36.png",
@@ -2020,10 +1752,6 @@
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
@@ -2032,16 +1760,8 @@
         "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_art_track_grey600_48.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
@@ -2050,10 +1770,6 @@
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_plusone_standard_off_client.png",
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/res/drawable-mdpi-v4/ic_plusone_standard_off_client.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
@@ -2080,10 +1796,6 @@
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/res/drawable-mdpi-v4/ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_plusone_medium_off_client.png",
-        "source": "/home/vinicius/.android/build-cache/cdc97f9d0ff4a4a017c9b723a68fc27683eb2884/output/res/drawable-mdpi-v4/ic_plusone_medium_off_client.png"
-    },
-    {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
         "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
     },
@@ -2094,10 +1806,6 @@
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_replay_white_24.png",
         "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_replay_white_24.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_play_circle_filled_grey600_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_play_circle_filled_grey600_36.png"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
@@ -2122,10 +1830,6 @@
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_replay_30_white_36.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_replay_30_white_36.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_volume_mute_white_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_volume_mute_white_36.png"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png",
@@ -2158,10 +1862,6 @@
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_stop_grey600_48.png",
         "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_stop_grey600_48.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_volume_off_grey600_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_volume_off_grey600_36.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
@@ -2232,10 +1932,6 @@
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/cast_ic_notification_on.png",
-        "source": "/home/vinicius/.android/build-cache/429d7e1b9d85c313054652f1c064be4e5ea51a1a/output/res/drawable-mdpi-v4/cast_ic_notification_on.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
     },
@@ -2244,16 +1940,8 @@
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-mdpi-v4/quantum_ic_pause_grey600_48.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_next_grey600_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_skip_next_grey600_36.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/places_ic_search.png",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/drawable-mdpi-v4/places_ic_search.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_play_circle_filled_white_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_play_circle_filled_white_36.png"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_play_arrow_white_24.png",
@@ -2262,10 +1950,6 @@
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/cast_ic_notification_2.png",
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/res/drawable-mdpi-v4/cast_ic_notification_2.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_plusone_small_off_client.png",
-        "source": "/home/vinicius/.android/build-cache/cdc97f9d0ff4a4a017c9b723a68fc27683eb2884/output/res/drawable-mdpi-v4/ic_plusone_small_off_client.png"
     },
     {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_next_white_36.png",
@@ -2360,24 +2044,12 @@
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/cast_ic_notification_2.png",
-        "source": "/home/vinicius/.android/build-cache/429d7e1b9d85c313054652f1c064be4e5ea51a1a/output/res/drawable-mdpi-v4/cast_ic_notification_2.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
-    },
-    {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_skip_next_grey600_36.png",
         "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_skip_next_grey600_36.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_stop_grey600_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_stop_grey600_36.png"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
@@ -2408,16 +2080,8 @@
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_replay_30_grey600_36.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_replay_30_grey600_36.png"
-    },
-    {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_ic_googleplayservices.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_ic_googleplayservices.png"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
@@ -2438,10 +2102,6 @@
     {
         "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
         "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_replay_white_24.png",
-        "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_replay_white_24.png"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_forward_30_grey600_36.png",
@@ -2466,9 +2126,5 @@
     {
         "merged": "/home/vinicius/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_volume_mute_white_36.png",
         "source": "/home/vinicius/.android/build-cache/d7b2a384748a9325478a1d28ff5b8ce48157bce9/output/res/drawable-mdpi-v4/quantum_ic_volume_mute_white_36.png"
-    },
-    {
-        "merged": "/home/vinicius/repos/Android/Udemy/The Complete Android N Developer Course/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
-        "source": "/home/vinicius/.android/build-cache/88686bea9b71084184e2b5a5b06755ddf9afd066/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
     }
 ]

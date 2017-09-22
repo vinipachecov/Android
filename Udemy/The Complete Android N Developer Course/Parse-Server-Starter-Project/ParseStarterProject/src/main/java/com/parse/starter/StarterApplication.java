@@ -21,8 +21,6 @@ import com.parse.SaveCallback;
 
 public class StarterApplication extends Application {
 
-
-
   @Override
   public void onCreate() {
     super.onCreate();
@@ -30,7 +28,6 @@ public class StarterApplication extends Application {
     // Enable Local Datastore.
     Parse.enableLocalDatastore(this);
 
-    //  FILL WITH THE EC2 INSTANCE CONFIG
     // Add your initialization code here
     Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
             .applicationId("")
@@ -39,28 +36,28 @@ public class StarterApplication extends Application {
             .build()
     );
 
+    ParseObject object = new ParseObject("ExampleObject");
+    object.put("myNumber", "123");
+    object.put("myString", "rob");
 
-//    ParseUser.enableAutomaticUser();
+    object.saveInBackground(new SaveCallback () {
+      @Override
+      public void done(ParseException ex) {
+        if (ex == null) {
+          Log.i("Parse Result", "Successful!");
+        } else {
+          Log.i("Parse Result", "Failed" + ex.toString());
+        }
+      }
+    });
+
+
+    ParseUser.enableAutomaticUser();
 
     ParseACL defaultACL = new ParseACL();
     defaultACL.setPublicReadAccess(true);
     defaultACL.setPublicWriteAccess(true);
     ParseACL.setDefaultACL(defaultACL, true);
-//
-//    ParseObject object = new ParseObject("ExampleObject");
-//    object.put("myNumber", "123");
-//    object.put("myString", "rob");
-//
-//    object.saveInBackground(new SaveCallback () {
-//      @Override
-//      public void done(ParseException ex) {
-//        if (ex == null) {
-//          Log.i("Parse Result", "Successful!");
-//        } else {
-//          Log.i("Parse Result", "Failed" + ex.toString());
-//        }
-//      }
-//    });
 
   }
 }

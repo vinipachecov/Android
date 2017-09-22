@@ -14,26 +14,19 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Switch;
 
-import com.parse.FindCallback;
-import com.parse.GetCallback;
 import com.parse.LogInCallback;
 import com.parse.Parse;
 import com.parse.ParseAnalytics;
 import com.parse.ParseAnonymousUtils;
 import com.parse.ParseException;
-import com.parse.ParseObject;
-import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
-import com.parse.SignUpCallback;
-
-import java.util.List;
 
 
 public class MainActivity extends AppCompatActivity {
 
 
-  @Override
+    @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
@@ -58,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
 //        }
 //      }
 //    });
-
+//
 //    ParseQuery<ParseObject> query = ParseQuery.getQuery("Score");
 //
 //    query.getInBackground("vNzB6Up0c3", new GetCallback<ParseObject>() {
@@ -76,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
 //
 //      }
 //    });
-
+//
 // Creating tweet class
 //    ParseObject tweet = new ParseObject("Tweet");
 //
@@ -95,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
 //
 //      }
 //    });
-
+//
 //    ParseQuery<ParseObject> query = ParseQuery.getQuery("Tweet");
 //
 //    query.getInBackground("vqamtqHF3d", new GetCallback<ParseObject>() {
@@ -114,11 +107,11 @@ public class MainActivity extends AppCompatActivity {
 //        }
 //      }
 //    });
-
+//
 //    Advanced Queries *******************
-
+//
 //    ParseQuery<ParseObject> query = ParseQuery.getQuery("Score");
-
+//
 //    search criteria
 //
 //    query.whereEqualTo("username","tom");
@@ -142,9 +135,9 @@ public class MainActivity extends AppCompatActivity {
 //        }
 //      }
 //    });
-
+//
 //    Every user with more than 200 points gets 50 extra
-
+//
 //    ParseQuery<ParseObject> query = ParseQuery.getQuery("Score");
 //
 //
@@ -167,7 +160,7 @@ public class MainActivity extends AppCompatActivity {
 //
 //      }
 //    });
-
+//
 // Parse user exampple
 //    ParseUser user = new ParseUser();
 //
@@ -187,7 +180,7 @@ public class MainActivity extends AppCompatActivity {
 //        }
 //      }
 //    });
-
+//
 // Login example
 //    ParseUser.logInInBackground("viicius", "1qwa", new LogInCallback() {
 //      @Override
@@ -202,9 +195,9 @@ public class MainActivity extends AppCompatActivity {
 //        }
 //      }
 //    });
-
+//
 // check if there is someone logged in
-
+//
 //    logout user
     ParseUser.logOut();
 
