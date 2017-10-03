@@ -12,5 +12,7 @@ import android.widget.Toast;
         setContentView(R.layout.activity_main);
 
         Toast.makeText(this, "My first IDE version control app", Toast.LENGTH_SHORT).show();
+
+        // Facebook testing!
     }
 }
