@@ -14,5 +14,7 @@ import android.widget.Toast;
         Toast.makeText(this, "My first IDE version control app", Toast.LENGTH_SHORT).show();
 
         // Facebook testing!
+
+//        Not working very well
     }
 }
