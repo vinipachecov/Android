@@ -15,6 +15,8 @@ import android.widget.Toast;
 
         // Facebook testing!
 
-//        Not working very well
+//        working now
+
+//        it's done!
     }
 }
